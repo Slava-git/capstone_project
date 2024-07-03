@@ -2,12 +2,12 @@
 https://www.kaggle.com/competitions/lmsys-chatbot-arena
 
 ## Objective:
-Predict which responses users will prefer in a head-to-head battle between chatbots powered by LLM.
+The goal of the competition is to predict the preferences of the judges and determine the likelihood that a given prompt/response pair is selected as the winner.
 
 ## Dataset:
-
+There are 55K rows in the training data.  
 Collected from Chatbot Arena.
-Users chat with two anonymous LLMs and choose the answer they prefer.
+Users chat with two anonymous LLMs and choose the answer they prefer.  
 
 ## Challenge Context:
 
